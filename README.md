@@ -1,7 +1,11 @@
-### Virtual keyboard
-___
+## Virtual keyboard
 
-![VirtKeyboard](https://gshn.ru/pics/virtkeyboard_small.png)
+Implementation of virtual keyboard
+* Vanilla JS
+* ENG / RUS languages
+* Easy code adaptation 
 
-Vanilla JS implementation of virtual keyboard
+![VirtKeyboard](https://gshn.ru/pics/virtualkeyboard.png)
+
+
 
